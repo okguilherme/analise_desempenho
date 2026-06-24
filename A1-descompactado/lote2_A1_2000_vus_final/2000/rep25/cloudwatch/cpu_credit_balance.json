@@ -1,0 +1,23 @@
+{
+    "Label": "CPUCreditBalance",
+    "Datapoints": [
+        {
+            "Timestamp": "2026-06-24T04:02:00+00:00",
+            "Average": 20.8133047,
+            "Maximum": 20.8133047,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-06-24T04:07:00+00:00",
+            "Average": 18.00385595,
+            "Maximum": 18.00385595,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-06-24T04:12:00+00:00",
+            "Average": 16.73454406666667,
+            "Maximum": 16.73454406666667,
+            "Unit": "Count"
+        }
+    ]
+}

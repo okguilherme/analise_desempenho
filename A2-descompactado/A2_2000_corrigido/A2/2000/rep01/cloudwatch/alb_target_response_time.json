@@ -1,0 +1,26 @@
+{
+    "Label": "TargetResponseTime",
+    "Datapoints": [
+        {
+            "Timestamp": "2026-06-22T05:13:00+00:00",
+            "Unit": "Seconds",
+            "ExtendedStatistics": {
+                "p95": 5.402452099735583
+            }
+        },
+        {
+            "Timestamp": "2026-06-22T05:18:00+00:00",
+            "Unit": "Seconds",
+            "ExtendedStatistics": {
+                "p95": 5.381352294136306
+            }
+        },
+        {
+            "Timestamp": "2026-06-22T05:08:00+00:00",
+            "Unit": "Seconds",
+            "ExtendedStatistics": {
+                "p95": 4.317821517867385
+            }
+        }
+    ]
+}

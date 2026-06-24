@@ -1,0 +1,17 @@
+carga_vus,tipo,valor
+100,overhead_ALB_isolado_ms,0.64
+100,overhead_ALB_isolado_pct,1.24
+500,overhead_ALB_isolado_ms,3.31
+500,overhead_ALB_isolado_pct,4.8
+1000,overhead_ALB_isolado_ms,-4.04
+1000,overhead_ALB_isolado_pct,-0.14
+2000,overhead_ALB_isolado_ms,-4.38
+2000,overhead_ALB_isolado_pct,-0.08
+100,diferenca_total_arquitetura_pct,-0.77
+500,diferenca_total_arquitetura_pct,23.33
+1000,diferenca_total_arquitetura_pct,-23.0
+2000,diferenca_total_arquitetura_pct,-54.57
+1000,ganho_latencia_pct,23.0
+1000,ganho_throughput_pct,278.22
+2000,ganho_latencia_pct,54.57
+2000,ganho_throughput_pct,403.52

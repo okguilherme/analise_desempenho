@@ -1,0 +1,23 @@
+{
+    "Label": "CPUSurplusCreditBalance",
+    "Datapoints": [
+        {
+            "Timestamp": "2026-06-22T03:40:00+00:00",
+            "Average": 34.85609156666667,
+            "Maximum": 34.85609156666667,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-06-22T03:30:00+00:00",
+            "Average": 23.036519783333333,
+            "Maximum": 23.036519783333333,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-06-22T03:35:00+00:00",
+            "Average": 28.84693486666667,
+            "Maximum": 28.84693486666667,
+            "Unit": "Count"
+        }
+    ]
+}

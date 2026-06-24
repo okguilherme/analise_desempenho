@@ -1,0 +1,1587 @@
+
+          /\      |‾‾| /‾‾/   /‾‾/   
+     /\  /  \     |  |/  /   /  /    
+    /  \/    \    |     (   /   ‾‾\  
+   /          \   |  |\  \ |  (‾)  | 
+  / __________ \  |__| \__\ \_____/ .io
+
+     execution: local
+        script: /home/ubuntu/experimento-aws/scripts/piloto_oficial.js
+        output: -
+
+     scenarios: (100.00%) 1 scenario, 500 max VUs, 4m30s max duration (incl. graceful stop):
+              * default: Up to 500 looping VUs for 4m0s over 2 stages (gracefulRampDown: 30s, gracefulStop: 30s)
+
+
+running (0m00.9s), 008/500 VUs, 0 complete and 0 interrupted iterations
+default   [   0% ] 008/500 VUs  0m00.9s/4m00.0s
+
+running (0m01.9s), 016/500 VUs, 7 complete and 0 interrupted iterations
+default   [   1% ] 016/500 VUs  0m01.9s/4m00.0s
+
+running (0m02.9s), 024/500 VUs, 18 complete and 0 interrupted iterations
+default   [   1% ] 024/500 VUs  0m02.9s/4m00.0s
+
+running (0m03.9s), 033/500 VUs, 31 complete and 0 interrupted iterations
+default   [   2% ] 033/500 VUs  0m03.9s/4m00.0s
+
+running (0m04.9s), 041/500 VUs, 48 complete and 0 interrupted iterations
+default   [   2% ] 041/500 VUs  0m04.9s/4m00.0s
+
+running (0m05.9s), 049/500 VUs, 73 complete and 0 interrupted iterations
+default   [   2% ] 049/500 VUs  0m05.9s/4m00.0s
+
+running (0m06.9s), 058/500 VUs, 114 complete and 0 interrupted iterations
+default   [   3% ] 058/500 VUs  0m06.9s/4m00.0s
+
+running (0m07.9s), 066/500 VUs, 171 complete and 0 interrupted iterations
+default   [   3% ] 066/500 VUs  0m07.9s/4m00.0s
+
+running (0m08.9s), 074/500 VUs, 236 complete and 0 interrupted iterations
+default   [   4% ] 074/500 VUs  0m08.9s/4m00.0s
+
+running (0m09.9s), 083/500 VUs, 309 complete and 0 interrupted iterations
+default   [   4% ] 083/500 VUs  0m09.9s/4m00.0s
+
+running (0m10.9s), 091/500 VUs, 384 complete and 0 interrupted iterations
+default   [   5% ] 091/500 VUs  0m10.9s/4m00.0s
+
+running (0m11.9s), 099/500 VUs, 462 complete and 0 interrupted iterations
+default   [   5% ] 099/500 VUs  0m11.9s/4m00.0s
+
+running (0m12.9s), 108/500 VUs, 549 complete and 0 interrupted iterations
+default   [   5% ] 108/500 VUs  0m12.9s/4m00.0s
+
+running (0m13.9s), 116/500 VUs, 652 complete and 0 interrupted iterations
+default   [   6% ] 116/500 VUs  0m13.9s/4m00.0s
+
+running (0m14.9s), 124/500 VUs, 767 complete and 0 interrupted iterations
+default   [   6% ] 124/500 VUs  0m14.9s/4m00.0s
+
+running (0m15.9s), 133/500 VUs, 891 complete and 0 interrupted iterations
+default   [   7% ] 133/500 VUs  0m15.9s/4m00.0s
+
+running (0m16.9s), 141/500 VUs, 1024 complete and 0 interrupted iterations
+default   [   7% ] 141/500 VUs  0m16.9s/4m00.0s
+
+running (0m17.9s), 149/500 VUs, 1159 complete and 0 interrupted iterations
+default   [   7% ] 149/500 VUs  0m17.9s/4m00.0s
+
+running (0m18.9s), 158/500 VUs, 1294 complete and 0 interrupted iterations
+default   [   8% ] 158/500 VUs  0m18.9s/4m00.0s
+
+running (0m19.9s), 166/500 VUs, 1434 complete and 0 interrupted iterations
+default   [   8% ] 166/500 VUs  0m19.9s/4m00.0s
+
+running (0m20.9s), 174/500 VUs, 1583 complete and 0 interrupted iterations
+default   [   9% ] 174/500 VUs  0m20.9s/4m00.0s
+
+running (0m21.9s), 183/500 VUs, 1732 complete and 0 interrupted iterations
+default   [   9% ] 183/500 VUs  0m21.9s/4m00.0s
+
+running (0m22.9s), 191/500 VUs, 1880 complete and 0 interrupted iterations
+default   [  10% ] 191/500 VUs  0m22.9s/4m00.0s
+
+running (0m23.9s), 199/500 VUs, 2029 complete and 0 interrupted iterations
+default   [  10% ] 199/500 VUs  0m23.9s/4m00.0s
+
+running (0m24.9s), 207/500 VUs, 2176 complete and 0 interrupted iterations
+default   [  10% ] 207/500 VUs  0m24.9s/4m00.0s
+
+running (0m25.9s), 216/500 VUs, 2326 complete and 0 interrupted iterations
+default   [  11% ] 216/500 VUs  0m25.9s/4m00.0s
+
+running (0m26.9s), 224/500 VUs, 2475 complete and 0 interrupted iterations
+default   [  11% ] 224/500 VUs  0m26.9s/4m00.0s
+
+running (0m27.9s), 232/500 VUs, 2625 complete and 0 interrupted iterations
+default   [  12% ] 232/500 VUs  0m27.9s/4m00.0s
+
+running (0m28.9s), 241/500 VUs, 2774 complete and 0 interrupted iterations
+default   [  12% ] 241/500 VUs  0m28.9s/4m00.0s
+
+running (0m29.9s), 249/500 VUs, 2923 complete and 0 interrupted iterations
+default   [  12% ] 249/500 VUs  0m29.9s/4m00.0s
+
+running (0m30.9s), 257/500 VUs, 3072 complete and 0 interrupted iterations
+default   [  13% ] 257/500 VUs  0m30.9s/4m00.0s
+
+running (0m31.9s), 266/500 VUs, 3220 complete and 0 interrupted iterations
+default   [  13% ] 266/500 VUs  0m31.9s/4m00.0s
+
+running (0m32.9s), 274/500 VUs, 3367 complete and 0 interrupted iterations
+default   [  14% ] 274/500 VUs  0m32.9s/4m00.0s
+
+running (0m33.9s), 282/500 VUs, 3513 complete and 0 interrupted iterations
+default   [  14% ] 282/500 VUs  0m33.9s/4m00.0s
+
+running (0m34.9s), 291/500 VUs, 3661 complete and 0 interrupted iterations
+default   [  15% ] 291/500 VUs  0m34.9s/4m00.0s
+
+running (0m35.9s), 299/500 VUs, 3811 complete and 0 interrupted iterations
+default   [  15% ] 299/500 VUs  0m35.9s/4m00.0s
+
+running (0m36.9s), 307/500 VUs, 3959 complete and 0 interrupted iterations
+default   [  15% ] 307/500 VUs  0m36.9s/4m00.0s
+
+running (0m37.9s), 316/500 VUs, 4106 complete and 0 interrupted iterations
+default   [  16% ] 316/500 VUs  0m37.9s/4m00.0s
+
+running (0m38.9s), 324/500 VUs, 4253 complete and 0 interrupted iterations
+default   [  16% ] 324/500 VUs  0m38.9s/4m00.0s
+
+running (0m39.9s), 332/500 VUs, 4402 complete and 0 interrupted iterations
+default   [  17% ] 332/500 VUs  0m39.9s/4m00.0s
+
+running (0m40.9s), 341/500 VUs, 4548 complete and 0 interrupted iterations
+default   [  17% ] 341/500 VUs  0m40.9s/4m00.0s
+
+running (0m41.9s), 349/500 VUs, 4698 complete and 0 interrupted iterations
+default   [  17% ] 349/500 VUs  0m41.9s/4m00.0s
+
+running (0m42.9s), 357/500 VUs, 4843 complete and 0 interrupted iterations
+default   [  18% ] 357/500 VUs  0m42.9s/4m00.0s
+
+running (0m43.9s), 365/500 VUs, 4984 complete and 0 interrupted iterations
+default   [  18% ] 365/500 VUs  0m43.9s/4m00.0s
+
+running (0m44.9s), 374/500 VUs, 5129 complete and 0 interrupted iterations
+default   [  19% ] 374/500 VUs  0m44.9s/4m00.0s
+
+running (0m45.9s), 382/500 VUs, 5276 complete and 0 interrupted iterations
+default   [  19% ] 382/500 VUs  0m45.9s/4m00.0s
+
+running (0m46.9s), 390/500 VUs, 5419 complete and 0 interrupted iterations
+default   [  20% ] 390/500 VUs  0m46.9s/4m00.0s
+
+running (0m47.9s), 399/500 VUs, 5568 complete and 0 interrupted iterations
+default   [  20% ] 399/500 VUs  0m47.9s/4m00.0s
+
+running (0m48.9s), 407/500 VUs, 5712 complete and 0 interrupted iterations
+default   [  20% ] 407/500 VUs  0m48.9s/4m00.0s
+
+running (0m49.9s), 415/500 VUs, 5855 complete and 0 interrupted iterations
+default   [  21% ] 415/500 VUs  0m49.9s/4m00.0s
+
+running (0m50.9s), 424/500 VUs, 6003 complete and 0 interrupted iterations
+default   [  21% ] 424/500 VUs  0m50.9s/4m00.0s
+
+running (0m51.9s), 432/500 VUs, 6145 complete and 0 interrupted iterations
+default   [  22% ] 432/500 VUs  0m51.9s/4m00.0s
+
+running (0m52.9s), 440/500 VUs, 6294 complete and 0 interrupted iterations
+default   [  22% ] 440/500 VUs  0m52.9s/4m00.0s
+
+running (0m53.9s), 449/500 VUs, 6436 complete and 0 interrupted iterations
+default   [  22% ] 449/500 VUs  0m53.9s/4m00.0s
+
+running (0m54.9s), 457/500 VUs, 6578 complete and 0 interrupted iterations
+default   [  23% ] 457/500 VUs  0m54.9s/4m00.0s
+
+running (0m55.9s), 465/500 VUs, 6725 complete and 0 interrupted iterations
+default   [  23% ] 465/500 VUs  0m55.9s/4m00.0s
+
+running (0m56.9s), 474/500 VUs, 6875 complete and 0 interrupted iterations
+default   [  24% ] 474/500 VUs  0m56.9s/4m00.0s
+
+running (0m57.9s), 482/500 VUs, 7023 complete and 0 interrupted iterations
+default   [  24% ] 482/500 VUs  0m57.9s/4m00.0s
+
+running (0m58.9s), 490/500 VUs, 7167 complete and 0 interrupted iterations
+default   [  25% ] 490/500 VUs  0m58.9s/4m00.0s
+
+running (0m59.9s), 499/500 VUs, 7314 complete and 0 interrupted iterations
+default   [  25% ] 499/500 VUs  0m59.9s/4m00.0s
+
+running (1m00.9s), 500/500 VUs, 7462 complete and 0 interrupted iterations
+default   [  25% ] 500/500 VUs  1m00.9s/4m00.0s
+
+running (1m01.9s), 500/500 VUs, 7610 complete and 0 interrupted iterations
+default   [  26% ] 500/500 VUs  1m01.9s/4m00.0s
+
+running (1m02.9s), 500/500 VUs, 7759 complete and 0 interrupted iterations
+default   [  26% ] 500/500 VUs  1m02.9s/4m00.0s
+
+running (1m03.9s), 500/500 VUs, 7909 complete and 0 interrupted iterations
+default   [  27% ] 500/500 VUs  1m03.9s/4m00.0s
+
+running (1m04.9s), 500/500 VUs, 8057 complete and 0 interrupted iterations
+default   [  27% ] 500/500 VUs  1m04.9s/4m00.0s
+
+running (1m05.9s), 500/500 VUs, 8205 complete and 0 interrupted iterations
+default   [  27% ] 500/500 VUs  1m05.9s/4m00.0s
+
+running (1m06.9s), 500/500 VUs, 8352 complete and 0 interrupted iterations
+default   [  28% ] 500/500 VUs  1m06.9s/4m00.0s
+
+running (1m07.9s), 500/500 VUs, 8501 complete and 0 interrupted iterations
+default   [  28% ] 500/500 VUs  1m07.9s/4m00.0s
+
+running (1m08.9s), 500/500 VUs, 8650 complete and 0 interrupted iterations
+default   [  29% ] 500/500 VUs  1m08.9s/4m00.0s
+
+running (1m09.9s), 500/500 VUs, 8797 complete and 0 interrupted iterations
+default   [  29% ] 500/500 VUs  1m09.9s/4m00.0s
+
+running (1m10.9s), 500/500 VUs, 8945 complete and 0 interrupted iterations
+default   [  30% ] 500/500 VUs  1m10.9s/4m00.0s
+
+running (1m11.9s), 500/500 VUs, 9095 complete and 0 interrupted iterations
+default   [  30% ] 500/500 VUs  1m11.9s/4m00.0s
+
+running (1m12.9s), 500/500 VUs, 9244 complete and 0 interrupted iterations
+default   [  30% ] 500/500 VUs  1m12.9s/4m00.0s
+
+running (1m13.9s), 500/500 VUs, 9391 complete and 0 interrupted iterations
+default   [  31% ] 500/500 VUs  1m13.9s/4m00.0s
+
+running (1m14.9s), 500/500 VUs, 9541 complete and 0 interrupted iterations
+default   [  31% ] 500/500 VUs  1m14.9s/4m00.0s
+
+running (1m15.9s), 500/500 VUs, 9688 complete and 0 interrupted iterations
+default   [  32% ] 500/500 VUs  1m15.9s/4m00.0s
+
+running (1m16.9s), 500/500 VUs, 9836 complete and 0 interrupted iterations
+default   [  32% ] 500/500 VUs  1m16.9s/4m00.0s
+
+running (1m17.9s), 500/500 VUs, 9985 complete and 0 interrupted iterations
+default   [  32% ] 500/500 VUs  1m17.9s/4m00.0s
+time="2026-06-17T03:38:31Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:31Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:31Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (1m18.9s), 500/500 VUs, 10134 complete and 0 interrupted iterations
+default   [  33% ] 500/500 VUs  1m18.9s/4m00.0s
+time="2026-06-17T03:38:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (1m19.9s), 500/500 VUs, 10291 complete and 0 interrupted iterations
+default   [  33% ] 500/500 VUs  1m19.9s/4m00.0s
+time="2026-06-17T03:38:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+
+running (1m20.9s), 500/500 VUs, 10447 complete and 0 interrupted iterations
+default   [  34% ] 500/500 VUs  1m20.9s/4m00.0s
+time="2026-06-17T03:38:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (1m21.9s), 500/500 VUs, 10604 complete and 0 interrupted iterations
+default   [  34% ] 500/500 VUs  1m21.9s/4m00.0s
+time="2026-06-17T03:38:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (1m22.9s), 500/500 VUs, 10759 complete and 0 interrupted iterations
+default   [  35% ] 500/500 VUs  1m22.9s/4m00.0s
+time="2026-06-17T03:38:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (1m23.9s), 500/500 VUs, 10917 complete and 0 interrupted iterations
+default   [  35% ] 500/500 VUs  1m23.9s/4m00.0s
+time="2026-06-17T03:38:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (1m24.9s), 500/500 VUs, 11075 complete and 0 interrupted iterations
+default   [  35% ] 500/500 VUs  1m24.9s/4m00.0s
+time="2026-06-17T03:38:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (1m25.9s), 500/500 VUs, 11232 complete and 0 interrupted iterations
+default   [  36% ] 500/500 VUs  1m25.9s/4m00.0s
+time="2026-06-17T03:38:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+
+running (1m26.9s), 500/500 VUs, 11390 complete and 0 interrupted iterations
+default   [  36% ] 500/500 VUs  1m26.9s/4m00.0s
+time="2026-06-17T03:38:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (1m27.9s), 500/500 VUs, 11544 complete and 0 interrupted iterations
+default   [  37% ] 500/500 VUs  1m27.9s/4m00.0s
+time="2026-06-17T03:38:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+
+running (1m28.9s), 500/500 VUs, 11698 complete and 0 interrupted iterations
+default   [  37% ] 500/500 VUs  1m28.9s/4m00.0s
+time="2026-06-17T03:38:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:43Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:43Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:43Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:43Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:43Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (1m29.9s), 500/500 VUs, 11856 complete and 0 interrupted iterations
+default   [  37% ] 500/500 VUs  1m29.9s/4m00.0s
+time="2026-06-17T03:38:43Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:43Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:43Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:44Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:44Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:44Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:44Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:44Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (1m30.9s), 500/500 VUs, 12011 complete and 0 interrupted iterations
+default   [  38% ] 500/500 VUs  1m30.9s/4m00.0s
+time="2026-06-17T03:38:44Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:44Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:44Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:44Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:45Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:45Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:45Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:45Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:45Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (1m31.9s), 500/500 VUs, 12167 complete and 0 interrupted iterations
+default   [  38% ] 500/500 VUs  1m31.9s/4m00.0s
+time="2026-06-17T03:38:45Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:45Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:45Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (1m32.9s), 500/500 VUs, 12324 complete and 0 interrupted iterations
+default   [  39% ] 500/500 VUs  1m32.9s/4m00.0s
+time="2026-06-17T03:38:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:47Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:47Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:47Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:47Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:47Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (1m33.9s), 500/500 VUs, 12481 complete and 0 interrupted iterations
+default   [  39% ] 500/500 VUs  1m33.9s/4m00.0s
+time="2026-06-17T03:38:47Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:47Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:47Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:47Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:48Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:48Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:48Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:48Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:48Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (1m34.9s), 500/500 VUs, 12637 complete and 0 interrupted iterations
+default   [  40% ] 500/500 VUs  1m34.9s/4m00.0s
+time="2026-06-17T03:38:48Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:48Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:48Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:49Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:49Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:49Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:49Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:49Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+
+running (1m35.9s), 500/500 VUs, 12793 complete and 0 interrupted iterations
+default   [  40% ] 500/500 VUs  1m35.9s/4m00.0s
+time="2026-06-17T03:38:49Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:49Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:49Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:50Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:50Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:50Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:50Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:50Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (1m36.9s), 500/500 VUs, 12943 complete and 0 interrupted iterations
+default   [  40% ] 500/500 VUs  1m36.9s/4m00.0s
+time="2026-06-17T03:38:50Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:50Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:50Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:50Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:51Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:51Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:51Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:51Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:51Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+
+running (1m37.9s), 500/500 VUs, 13100 complete and 0 interrupted iterations
+default   [  41% ] 500/500 VUs  1m37.9s/4m00.0s
+time="2026-06-17T03:38:51Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:51Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:51Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:52Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:52Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:52Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:52Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:52Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (1m38.9s), 500/500 VUs, 13256 complete and 0 interrupted iterations
+default   [  41% ] 500/500 VUs  1m38.9s/4m00.0s
+time="2026-06-17T03:38:52Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:52Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:52Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:53Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:53Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:53Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:53Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:53Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (1m39.9s), 500/500 VUs, 13410 complete and 0 interrupted iterations
+default   [  42% ] 500/500 VUs  1m39.9s/4m00.0s
+time="2026-06-17T03:38:53Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:53Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:53Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:53Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:54Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:54Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:54Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:54Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:54Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (1m40.9s), 500/500 VUs, 13566 complete and 0 interrupted iterations
+default   [  42% ] 500/500 VUs  1m40.9s/4m00.0s
+time="2026-06-17T03:38:54Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:54Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:54Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:55Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:55Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:55Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:55Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:55Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+
+running (1m41.9s), 500/500 VUs, 13722 complete and 0 interrupted iterations
+default   [  42% ] 500/500 VUs  1m41.9s/4m00.0s
+time="2026-06-17T03:38:55Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:55Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:55Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:56Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:56Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:56Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:56Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (1m42.9s), 500/500 VUs, 13870 complete and 0 interrupted iterations
+default   [  43% ] 500/500 VUs  1m42.9s/4m00.0s
+
+running (1m43.9s), 500/500 VUs, 14031 complete and 0 interrupted iterations
+default   [  43% ] 500/500 VUs  1m43.9s/4m00.0s
+time="2026-06-17T03:38:58Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:58Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:58Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:38:58Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (1m44.9s), 500/500 VUs, 14183 complete and 0 interrupted iterations
+default   [  44% ] 500/500 VUs  1m44.9s/4m00.0s
+time="2026-06-17T03:38:59Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:38:59Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (1m45.9s), 500/500 VUs, 14340 complete and 0 interrupted iterations
+default   [  44% ] 500/500 VUs  1m45.9s/4m00.0s
+
+running (1m46.9s), 500/500 VUs, 14495 complete and 0 interrupted iterations
+default   [  45% ] 500/500 VUs  1m46.9s/4m00.0s
+
+running (1m47.9s), 500/500 VUs, 14658 complete and 0 interrupted iterations
+default   [  45% ] 500/500 VUs  1m47.9s/4m00.0s
+
+running (1m48.9s), 500/500 VUs, 14816 complete and 0 interrupted iterations
+default   [  45% ] 500/500 VUs  1m48.9s/4m00.0s
+
+running (1m49.9s), 500/500 VUs, 14970 complete and 0 interrupted iterations
+default   [  46% ] 500/500 VUs  1m49.9s/4m00.0s
+
+running (1m50.9s), 500/500 VUs, 15126 complete and 0 interrupted iterations
+default   [  46% ] 500/500 VUs  1m50.9s/4m00.0s
+
+running (1m51.9s), 500/500 VUs, 15282 complete and 0 interrupted iterations
+default   [  47% ] 500/500 VUs  1m51.9s/4m00.0s
+
+running (1m52.9s), 500/500 VUs, 15429 complete and 0 interrupted iterations
+default   [  47% ] 500/500 VUs  1m52.9s/4m00.0s
+
+running (1m53.9s), 500/500 VUs, 15575 complete and 0 interrupted iterations
+default   [  47% ] 500/500 VUs  1m53.9s/4m00.0s
+
+running (1m54.9s), 500/500 VUs, 15735 complete and 0 interrupted iterations
+default   [  48% ] 500/500 VUs  1m54.9s/4m00.0s
+
+running (1m55.9s), 500/500 VUs, 15891 complete and 0 interrupted iterations
+default   [  48% ] 500/500 VUs  1m55.9s/4m00.0s
+
+running (1m56.9s), 500/500 VUs, 16050 complete and 0 interrupted iterations
+default   [  49% ] 500/500 VUs  1m56.9s/4m00.0s
+
+running (1m57.9s), 500/500 VUs, 16205 complete and 0 interrupted iterations
+default   [  49% ] 500/500 VUs  1m57.9s/4m00.0s
+
+running (1m58.9s), 500/500 VUs, 16362 complete and 0 interrupted iterations
+default   [  50% ] 500/500 VUs  1m58.9s/4m00.0s
+
+running (1m59.9s), 500/500 VUs, 16508 complete and 0 interrupted iterations
+default   [  50% ] 500/500 VUs  1m59.9s/4m00.0s
+time="2026-06-17T03:39:13Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+
+running (2m00.9s), 500/500 VUs, 16659 complete and 0 interrupted iterations
+default   [  50% ] 500/500 VUs  2m00.9s/4m00.0s
+
+running (2m01.9s), 500/500 VUs, 16809 complete and 0 interrupted iterations
+default   [  51% ] 500/500 VUs  2m01.9s/4m00.0s
+
+running (2m02.9s), 500/500 VUs, 16964 complete and 0 interrupted iterations
+default   [  51% ] 500/500 VUs  2m02.9s/4m00.0s
+
+running (2m03.9s), 500/500 VUs, 17114 complete and 0 interrupted iterations
+default   [  52% ] 500/500 VUs  2m03.9s/4m00.0s
+
+running (2m04.9s), 500/500 VUs, 17264 complete and 0 interrupted iterations
+default   [  52% ] 500/500 VUs  2m04.9s/4m00.0s
+
+running (2m05.9s), 500/500 VUs, 17412 complete and 0 interrupted iterations
+default   [  52% ] 500/500 VUs  2m05.9s/4m00.0s
+
+running (2m06.9s), 500/500 VUs, 17562 complete and 0 interrupted iterations
+default   [  53% ] 500/500 VUs  2m06.9s/4m00.0s
+
+running (2m07.9s), 500/500 VUs, 17711 complete and 0 interrupted iterations
+default   [  53% ] 500/500 VUs  2m07.9s/4m00.0s
+
+running (2m08.9s), 500/500 VUs, 17860 complete and 0 interrupted iterations
+default   [  54% ] 500/500 VUs  2m08.9s/4m00.0s
+
+running (2m09.9s), 500/500 VUs, 18009 complete and 0 interrupted iterations
+default   [  54% ] 500/500 VUs  2m09.9s/4m00.0s
+
+running (2m10.9s), 500/500 VUs, 18158 complete and 0 interrupted iterations
+default   [  55% ] 500/500 VUs  2m10.9s/4m00.0s
+
+running (2m11.9s), 500/500 VUs, 18305 complete and 0 interrupted iterations
+default   [  55% ] 500/500 VUs  2m11.9s/4m00.0s
+
+running (2m12.9s), 500/500 VUs, 18453 complete and 0 interrupted iterations
+default   [  55% ] 500/500 VUs  2m12.9s/4m00.0s
+
+running (2m13.9s), 500/500 VUs, 18602 complete and 0 interrupted iterations
+default   [  56% ] 500/500 VUs  2m13.9s/4m00.0s
+
+running (2m14.9s), 500/500 VUs, 18750 complete and 0 interrupted iterations
+default   [  56% ] 500/500 VUs  2m14.9s/4m00.0s
+
+running (2m15.9s), 500/500 VUs, 18898 complete and 0 interrupted iterations
+default   [  57% ] 500/500 VUs  2m15.9s/4m00.0s
+
+running (2m16.9s), 500/500 VUs, 19047 complete and 0 interrupted iterations
+default   [  57% ] 500/500 VUs  2m16.9s/4m00.0s
+
+running (2m17.9s), 500/500 VUs, 19196 complete and 0 interrupted iterations
+default   [  57% ] 500/500 VUs  2m17.9s/4m00.0s
+
+running (2m18.9s), 500/500 VUs, 19344 complete and 0 interrupted iterations
+default   [  58% ] 500/500 VUs  2m18.9s/4m00.0s
+
+running (2m19.9s), 500/500 VUs, 19492 complete and 0 interrupted iterations
+default   [  58% ] 500/500 VUs  2m19.9s/4m00.0s
+time="2026-06-17T03:39:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m20.9s), 500/500 VUs, 19640 complete and 0 interrupted iterations
+default   [  59% ] 500/500 VUs  2m20.9s/4m00.0s
+time="2026-06-17T03:39:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m21.9s), 500/500 VUs, 19792 complete and 0 interrupted iterations
+default   [  59% ] 500/500 VUs  2m21.9s/4m00.0s
+time="2026-06-17T03:39:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m22.9s), 500/500 VUs, 19950 complete and 0 interrupted iterations
+default   [  60% ] 500/500 VUs  2m22.9s/4m00.0s
+time="2026-06-17T03:39:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+
+running (2m23.9s), 500/500 VUs, 20105 complete and 0 interrupted iterations
+default   [  60% ] 500/500 VUs  2m23.9s/4m00.0s
+time="2026-06-17T03:39:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m24.9s), 500/500 VUs, 20258 complete and 0 interrupted iterations
+default   [  60% ] 500/500 VUs  2m24.9s/4m00.0s
+time="2026-06-17T03:39:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m25.9s), 500/500 VUs, 20413 complete and 0 interrupted iterations
+default   [  61% ] 500/500 VUs  2m25.9s/4m00.0s
+time="2026-06-17T03:39:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+
+running (2m26.9s), 500/500 VUs, 20570 complete and 0 interrupted iterations
+default   [  61% ] 500/500 VUs  2m26.9s/4m00.0s
+time="2026-06-17T03:39:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+
+running (2m27.9s), 500/500 VUs, 20723 complete and 0 interrupted iterations
+default   [  62% ] 500/500 VUs  2m27.9s/4m00.0s
+time="2026-06-17T03:39:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m28.9s), 500/500 VUs, 20881 complete and 0 interrupted iterations
+default   [  62% ] 500/500 VUs  2m28.9s/4m00.0s
+time="2026-06-17T03:39:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:43Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:43Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:43Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:43Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:43Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m29.9s), 500/500 VUs, 21039 complete and 0 interrupted iterations
+default   [  62% ] 500/500 VUs  2m29.9s/4m00.0s
+time="2026-06-17T03:39:43Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:43Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:43Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:44Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:44Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:44Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:44Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:44Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m30.9s), 500/500 VUs, 21196 complete and 0 interrupted iterations
+default   [  63% ] 500/500 VUs  2m30.9s/4m00.0s
+time="2026-06-17T03:39:44Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:44Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:44Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:45Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:45Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:45Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:45Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:45Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m31.9s), 500/500 VUs, 21353 complete and 0 interrupted iterations
+default   [  63% ] 500/500 VUs  2m31.9s/4m00.0s
+time="2026-06-17T03:39:45Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:45Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:45Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:45Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m32.9s), 500/500 VUs, 21505 complete and 0 interrupted iterations
+default   [  64% ] 500/500 VUs  2m32.9s/4m00.0s
+time="2026-06-17T03:39:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:47Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:47Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:47Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:47Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:47Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+
+running (2m33.9s), 500/500 VUs, 21657 complete and 0 interrupted iterations
+default   [  64% ] 500/500 VUs  2m33.9s/4m00.0s
+time="2026-06-17T03:39:47Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:47Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:47Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:48Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:48Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:48Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:48Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:48Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+
+running (2m34.9s), 500/500 VUs, 21816 complete and 0 interrupted iterations
+default   [  65% ] 500/500 VUs  2m34.9s/4m00.0s
+time="2026-06-17T03:39:48Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:48Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:48Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:48Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:49Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:49Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:49Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:49Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:49Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+
+running (2m35.9s), 500/500 VUs, 21970 complete and 0 interrupted iterations
+default   [  65% ] 500/500 VUs  2m35.9s/4m00.0s
+time="2026-06-17T03:39:49Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:49Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:49Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:50Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:50Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:50Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:50Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:50Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m36.9s), 500/500 VUs, 22127 complete and 0 interrupted iterations
+default   [  65% ] 500/500 VUs  2m36.9s/4m00.0s
+time="2026-06-17T03:39:50Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:50Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:50Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:51Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:51Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:51Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:51Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:51Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m37.9s), 500/500 VUs, 22283 complete and 0 interrupted iterations
+default   [  66% ] 500/500 VUs  2m37.9s/4m00.0s
+time="2026-06-17T03:39:51Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:51Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:51Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:51Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:52Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:52Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:52Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:52Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:52Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m38.9s), 500/500 VUs, 22437 complete and 0 interrupted iterations
+default   [  66% ] 500/500 VUs  2m38.9s/4m00.0s
+time="2026-06-17T03:39:52Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:52Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:52Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:53Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:53Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:53Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:53Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:53Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m39.9s), 500/500 VUs, 22595 complete and 0 interrupted iterations
+default   [  67% ] 500/500 VUs  2m39.9s/4m00.0s
+time="2026-06-17T03:39:53Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:53Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:53Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:54Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:54Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:54Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:54Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:54Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m40.9s), 500/500 VUs, 22750 complete and 0 interrupted iterations
+default   [  67% ] 500/500 VUs  2m40.9s/4m00.0s
+time="2026-06-17T03:39:54Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:54Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:54Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:54Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:55Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:55Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:55Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:55Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:55Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+
+running (2m41.9s), 500/500 VUs, 22899 complete and 0 interrupted iterations
+default   [  67% ] 500/500 VUs  2m41.9s/4m00.0s
+time="2026-06-17T03:39:55Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:55Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:55Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:56Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:56Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:56Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:56Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:56Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:56Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m42.9s), 500/500 VUs, 23057 complete and 0 interrupted iterations
+default   [  68% ] 500/500 VUs  2m42.9s/4m00.0s
+time="2026-06-17T03:39:56Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:56Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:56Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:56Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:56Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:56Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:57Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:57Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:57Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:57Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:57Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:57Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:57Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:57Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+
+running (2m43.9s), 500/500 VUs, 23213 complete and 0 interrupted iterations
+default   [  68% ] 500/500 VUs  2m43.9s/4m00.0s
+time="2026-06-17T03:39:57Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:57Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:57Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m44.9s), 500/500 VUs, 23377 complete and 0 interrupted iterations
+default   [  69% ] 500/500 VUs  2m44.9s/4m00.0s
+time="2026-06-17T03:39:58Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:58Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:59Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:59Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:39:59Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:59Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:59Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:59Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:39:59Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m45.9s), 500/500 VUs, 23528 complete and 0 interrupted iterations
+default   [  69% ] 500/500 VUs  2m45.9s/4m00.0s
+time="2026-06-17T03:39:59Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:00Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:00Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:00Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:00Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:00Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:00Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:00Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:00Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m46.9s), 500/500 VUs, 23686 complete and 0 interrupted iterations
+default   [  70% ] 500/500 VUs  2m46.9s/4m00.0s
+time="2026-06-17T03:40:00Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:00Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:01Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:01Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:01Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:01Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:01Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:01Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:01Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:01Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:01Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:01Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:01Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:01Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m47.9s), 500/500 VUs, 23842 complete and 0 interrupted iterations
+default   [  70% ] 500/500 VUs  2m47.9s/4m00.0s
+time="2026-06-17T03:40:01Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:01Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:01Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:01Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:01Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:02Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:02Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:02Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:02Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:02Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:02Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m48.9s), 500/500 VUs, 24002 complete and 0 interrupted iterations
+default   [  70% ] 500/500 VUs  2m48.9s/4m00.0s
+time="2026-06-17T03:40:02Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:02Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:02Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:02Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:02Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:02Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:02Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:02Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:02Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:03Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:03Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:03Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m49.9s), 500/500 VUs, 24155 complete and 0 interrupted iterations
+default   [  71% ] 500/500 VUs  2m49.9s/4m00.0s
+time="2026-06-17T03:40:03Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:03Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:03Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:03Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:04Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:04Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:04Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:04Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m50.9s), 500/500 VUs, 24314 complete and 0 interrupted iterations
+default   [  71% ] 500/500 VUs  2m50.9s/4m00.0s
+time="2026-06-17T03:40:04Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:04Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:05Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:05Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:05Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:05Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:05Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m51.9s), 500/500 VUs, 24468 complete and 0 interrupted iterations
+default   [  72% ] 500/500 VUs  2m51.9s/4m00.0s
+time="2026-06-17T03:40:06Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:06Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m52.9s), 500/500 VUs, 24622 complete and 0 interrupted iterations
+default   [  72% ] 500/500 VUs  2m52.9s/4m00.0s
+time="2026-06-17T03:40:06Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:06Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:07Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:07Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:07Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m53.9s), 500/500 VUs, 24768 complete and 0 interrupted iterations
+default   [  72% ] 500/500 VUs  2m53.9s/4m00.0s
+time="2026-06-17T03:40:07Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:07Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:07Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:07Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:08Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:08Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:08Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:08Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:08Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:08Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:08Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:08Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m54.9s), 500/500 VUs, 24920 complete and 0 interrupted iterations
+default   [  73% ] 500/500 VUs  2m54.9s/4m00.0s
+time="2026-06-17T03:40:08Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:08Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:08Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:08Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:08Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:08Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:08Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:08Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:08Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:09Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:09Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:09Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m55.9s), 500/500 VUs, 25078 complete and 0 interrupted iterations
+default   [  73% ] 500/500 VUs  2m55.9s/4m00.0s
+time="2026-06-17T03:40:09Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:09Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:09Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:09Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:09Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:09Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:10Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:10Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:10Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:10Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:10Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:10Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+
+running (2m56.9s), 500/500 VUs, 25240 complete and 0 interrupted iterations
+default   [  74% ] 500/500 VUs  2m56.9s/4m00.0s
+time="2026-06-17T03:40:10Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:10Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:10Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:11Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:11Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:11Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:11Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:11Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m57.9s), 500/500 VUs, 25398 complete and 0 interrupted iterations
+default   [  74% ] 500/500 VUs  2m57.9s/4m00.0s
+time="2026-06-17T03:40:11Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:11Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:11Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:11Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:11Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:11Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:12Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:12Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+
+running (2m58.9s), 500/500 VUs, 25555 complete and 0 interrupted iterations
+default   [  75% ] 500/500 VUs  2m58.9s/4m00.0s
+time="2026-06-17T03:40:13Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (2m59.9s), 500/500 VUs, 25707 complete and 0 interrupted iterations
+default   [  75% ] 500/500 VUs  2m59.9s/4m00.0s
+time="2026-06-17T03:40:13Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:14Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (3m00.9s), 500/500 VUs, 25856 complete and 0 interrupted iterations
+default   [  75% ] 500/500 VUs  3m00.9s/4m00.0s
+time="2026-06-17T03:40:14Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:14Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:14Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:15Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:15Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (3m01.9s), 500/500 VUs, 26005 complete and 0 interrupted iterations
+default   [  76% ] 500/500 VUs  3m01.9s/4m00.0s
+time="2026-06-17T03:40:15Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:15Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:15Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:15Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:15Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:15Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:15Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:16Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (3m02.9s), 500/500 VUs, 26159 complete and 0 interrupted iterations
+default   [  76% ] 500/500 VUs  3m02.9s/4m00.0s
+time="2026-06-17T03:40:17Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (3m03.9s), 500/500 VUs, 26314 complete and 0 interrupted iterations
+default   [  77% ] 500/500 VUs  3m03.9s/4m00.0s
+
+running (3m04.9s), 500/500 VUs, 26462 complete and 0 interrupted iterations
+default   [  77% ] 500/500 VUs  3m04.9s/4m00.0s
+
+running (3m05.9s), 500/500 VUs, 26611 complete and 0 interrupted iterations
+default   [  77% ] 500/500 VUs  3m05.9s/4m00.0s
+
+running (3m06.9s), 500/500 VUs, 26759 complete and 0 interrupted iterations
+default   [  78% ] 500/500 VUs  3m06.9s/4m00.0s
+
+running (3m07.9s), 500/500 VUs, 26907 complete and 0 interrupted iterations
+default   [  78% ] 500/500 VUs  3m07.9s/4m00.0s
+
+running (3m08.9s), 500/500 VUs, 27055 complete and 0 interrupted iterations
+default   [  79% ] 500/500 VUs  3m08.9s/4m00.0s
+
+running (3m09.9s), 500/500 VUs, 27204 complete and 0 interrupted iterations
+default   [  79% ] 500/500 VUs  3m09.9s/4m00.0s
+
+running (3m10.9s), 500/500 VUs, 27351 complete and 0 interrupted iterations
+default   [  80% ] 500/500 VUs  3m10.9s/4m00.0s
+time="2026-06-17T03:40:24Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:24Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:25Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:25Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:25Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:25Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:25Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+
+running (3m11.9s), 500/500 VUs, 27500 complete and 0 interrupted iterations
+default   [  80% ] 500/500 VUs  3m11.9s/4m00.0s
+time="2026-06-17T03:40:25Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:25Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:25Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:25Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:26Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:26Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:26Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:26Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+
+running (3m12.9s), 500/500 VUs, 27655 complete and 0 interrupted iterations
+default   [  80% ] 500/500 VUs  3m12.9s/4m00.0s
+time="2026-06-17T03:40:26Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:26Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:26Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:26Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:27Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:27Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:27Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:27Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:27Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:27Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+
+running (3m13.9s), 500/500 VUs, 27812 complete and 0 interrupted iterations
+default   [  81% ] 500/500 VUs  3m13.9s/4m00.0s
+time="2026-06-17T03:40:27Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:27Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:27Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:27Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:27Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:27Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:28Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:28Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:28Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:28Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:28Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:28Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:28Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:28Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+
+running (3m14.9s), 500/500 VUs, 27971 complete and 0 interrupted iterations
+default   [  81% ] 500/500 VUs  3m14.9s/4m00.0s
+time="2026-06-17T03:40:28Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:28Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:28Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+
+running (3m15.9s), 500/500 VUs, 28134 complete and 0 interrupted iterations
+default   [  82% ] 500/500 VUs  3m15.9s/4m00.0s
+time="2026-06-17T03:40:29Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:29Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:30Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:30Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:30Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:30Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:30Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:30Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:30Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+
+running (3m16.9s), 500/500 VUs, 28287 complete and 0 interrupted iterations
+default   [  82% ] 500/500 VUs  3m16.9s/4m00.0s
+time="2026-06-17T03:40:30Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:31Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:31Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:31Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:31Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:31Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:31Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:31Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:31Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+
+running (3m17.9s), 500/500 VUs, 28445 complete and 0 interrupted iterations
+default   [  82% ] 500/500 VUs  3m17.9s/4m00.0s
+time="2026-06-17T03:40:31Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:31Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+
+running (3m18.9s), 500/500 VUs, 28598 complete and 0 interrupted iterations
+default   [  83% ] 500/500 VUs  3m18.9s/4m00.0s
+time="2026-06-17T03:40:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:32Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+
+running (3m19.9s), 500/500 VUs, 28761 complete and 0 interrupted iterations
+default   [  83% ] 500/500 VUs  3m19.9s/4m00.0s
+time="2026-06-17T03:40:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:33Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+
+running (3m20.9s), 500/500 VUs, 28920 complete and 0 interrupted iterations
+default   [  84% ] 500/500 VUs  3m20.9s/4m00.0s
+time="2026-06-17T03:40:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:34Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (3m21.9s), 500/500 VUs, 29077 complete and 0 interrupted iterations
+default   [  84% ] 500/500 VUs  3m21.9s/4m00.0s
+time="2026-06-17T03:40:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:35Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (3m22.9s), 500/500 VUs, 29239 complete and 0 interrupted iterations
+default   [  85% ] 500/500 VUs  3m22.9s/4m00.0s
+time="2026-06-17T03:40:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:36Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+
+running (3m23.9s), 500/500 VUs, 29402 complete and 0 interrupted iterations
+default   [  85% ] 500/500 VUs  3m23.9s/4m00.0s
+time="2026-06-17T03:40:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:37Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": request timeout"
+time="2026-06-17T03:40:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+
+running (3m24.9s), 500/500 VUs, 29560 complete and 0 interrupted iterations
+default   [  85% ] 500/500 VUs  3m24.9s/4m00.0s
+time="2026-06-17T03:40:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:38Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+
+running (3m25.9s), 500/500 VUs, 29723 complete and 0 interrupted iterations
+default   [  86% ] 500/500 VUs  3m25.9s/4m00.0s
+time="2026-06-17T03:40:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:39Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+
+running (3m26.9s), 500/500 VUs, 29885 complete and 0 interrupted iterations
+default   [  86% ] 500/500 VUs  3m26.9s/4m00.0s
+time="2026-06-17T03:40:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:40Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": request timeout"
+time="2026-06-17T03:40:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+
+running (3m27.9s), 500/500 VUs, 30048 complete and 0 interrupted iterations
+default   [  87% ] 500/500 VUs  3m27.9s/4m00.0s
+time="2026-06-17T03:40:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:41Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+
+running (3m28.9s), 500/500 VUs, 30217 complete and 0 interrupted iterations
+default   [  87% ] 500/500 VUs  3m28.9s/4m00.0s
+time="2026-06-17T03:40:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:42Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:43Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:43Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+
+running (3m29.9s), 500/500 VUs, 30390 complete and 0 interrupted iterations
+default   [  87% ] 500/500 VUs  3m29.9s/4m00.0s
+time="2026-06-17T03:40:44Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+
+running (3m30.9s), 500/500 VUs, 30557 complete and 0 interrupted iterations
+default   [  88% ] 500/500 VUs  3m30.9s/4m00.0s
+time="2026-06-17T03:40:44Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:45Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+
+running (3m31.9s), 500/500 VUs, 30716 complete and 0 interrupted iterations
+default   [  88% ] 500/500 VUs  3m31.9s/4m00.0s
+time="2026-06-17T03:40:45Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:45Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:45Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+
+running (3m32.9s), 500/500 VUs, 30876 complete and 0 interrupted iterations
+default   [  89% ] 500/500 VUs  3m32.9s/4m00.0s
+time="2026-06-17T03:40:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/api/cpu.php\": dial: i/o timeout"
+time="2026-06-17T03:40:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:46Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+time="2026-06-17T03:40:47Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+
+running (3m33.9s), 500/500 VUs, 31035 complete and 0 interrupted iterations
+default   [  89% ] 500/500 VUs  3m33.9s/4m00.0s
+time="2026-06-17T03:40:48Z" level=warning msg="Request Failed" error="Get \"http://10.0.1.30/index.html\": dial: i/o timeout"
+
+running (3m34.9s), 500/500 VUs, 31196 complete and 0 interrupted iterations
+default   [  90% ] 500/500 VUs  3m34.9s/4m00.0s
+
+running (3m35.9s), 500/500 VUs, 31354 complete and 0 interrupted iterations
+default   [  90% ] 500/500 VUs  3m35.9s/4m00.0s
+
+running (3m36.9s), 500/500 VUs, 31511 complete and 0 interrupted iterations
+default   [  90% ] 500/500 VUs  3m36.9s/4m00.0s
+
+running (3m37.9s), 500/500 VUs, 31667 complete and 0 interrupted iterations
+default   [  91% ] 500/500 VUs  3m37.9s/4m00.0s
+
+running (3m38.9s), 500/500 VUs, 31827 complete and 0 interrupted iterations
+default   [  91% ] 500/500 VUs  3m38.9s/4m00.0s
+
+running (3m39.9s), 500/500 VUs, 31983 complete and 0 interrupted iterations
+default   [  92% ] 500/500 VUs  3m39.9s/4m00.0s
+
+running (3m40.9s), 500/500 VUs, 32136 complete and 0 interrupted iterations
+default   [  92% ] 500/500 VUs  3m40.9s/4m00.0s
+
+running (3m41.9s), 500/500 VUs, 32288 complete and 0 interrupted iterations
+default   [  92% ] 500/500 VUs  3m41.9s/4m00.0s
+
+running (3m42.9s), 500/500 VUs, 32431 complete and 0 interrupted iterations
+default   [  93% ] 500/500 VUs  3m42.9s/4m00.0s
+
+running (3m43.9s), 500/500 VUs, 32585 complete and 0 interrupted iterations
+default   [  93% ] 500/500 VUs  3m43.9s/4m00.0s
+
+running (3m44.9s), 500/500 VUs, 32736 complete and 0 interrupted iterations
+default   [  94% ] 500/500 VUs  3m44.9s/4m00.0s
+
+running (3m45.9s), 500/500 VUs, 32883 complete and 0 interrupted iterations
+default   [  94% ] 500/500 VUs  3m45.9s/4m00.0s
+
+running (3m46.9s), 500/500 VUs, 33030 complete and 0 interrupted iterations
+default   [  95% ] 500/500 VUs  3m46.9s/4m00.0s
+
+running (3m47.9s), 500/500 VUs, 33179 complete and 0 interrupted iterations
+default   [  95% ] 500/500 VUs  3m47.9s/4m00.0s
+
+running (3m48.9s), 500/500 VUs, 33322 complete and 0 interrupted iterations
+default   [  95% ] 500/500 VUs  3m48.9s/4m00.0s
+
+running (3m49.9s), 500/500 VUs, 33472 complete and 0 interrupted iterations
+default   [  96% ] 500/500 VUs  3m49.9s/4m00.0s
+
+running (3m50.9s), 500/500 VUs, 33620 complete and 0 interrupted iterations
+default   [  96% ] 500/500 VUs  3m50.9s/4m00.0s
+
+running (3m51.9s), 500/500 VUs, 33767 complete and 0 interrupted iterations
+default   [  97% ] 500/500 VUs  3m51.9s/4m00.0s
+
+running (3m52.9s), 500/500 VUs, 33915 complete and 0 interrupted iterations
+default   [  97% ] 500/500 VUs  3m52.9s/4m00.0s
+
+running (3m53.9s), 500/500 VUs, 34059 complete and 0 interrupted iterations
+default   [  97% ] 500/500 VUs  3m53.9s/4m00.0s
+
+running (3m54.9s), 500/500 VUs, 34205 complete and 0 interrupted iterations
+default   [  98% ] 500/500 VUs  3m54.9s/4m00.0s
+
+running (3m55.9s), 500/500 VUs, 34351 complete and 0 interrupted iterations
+default   [  98% ] 500/500 VUs  3m55.9s/4m00.0s
+
+running (3m56.9s), 500/500 VUs, 34498 complete and 0 interrupted iterations
+default   [  99% ] 500/500 VUs  3m56.9s/4m00.0s
+
+running (3m57.9s), 500/500 VUs, 34645 complete and 0 interrupted iterations
+default   [  99% ] 500/500 VUs  3m57.9s/4m00.0s
+
+running (3m58.9s), 500/500 VUs, 34794 complete and 0 interrupted iterations
+default   [ 100% ] 500/500 VUs  3m58.9s/4m00.0s
+
+running (3m59.9s), 500/500 VUs, 34939 complete and 0 interrupted iterations
+default   [ 100% ] 500/500 VUs  3m59.9s/4m00.0s
+
+running (4m00.9s), 366/500 VUs, 35087 complete and 0 interrupted iterations
+default ↓ [ 100% ] 500/500 VUs  4m0s
+
+running (4m01.9s), 350/500 VUs, 35103 complete and 0 interrupted iterations
+default ↓ [ 100% ] 500/500 VUs  4m0s
+
+running (4m02.9s), 350/500 VUs, 35103 complete and 0 interrupted iterations
+default ↓ [ 100% ] 500/500 VUs  4m0s
+
+running (4m03.9s), 350/500 VUs, 35103 complete and 0 interrupted iterations
+default ↓ [ 100% ] 500/500 VUs  4m0s
+
+running (4m04.9s), 350/500 VUs, 35103 complete and 0 interrupted iterations
+default ↓ [ 100% ] 500/500 VUs  4m0s
+
+running (4m05.9s), 217/500 VUs, 35236 complete and 0 interrupted iterations
+default ↓ [ 100% ] 500/500 VUs  4m0s
+
+running (4m06.9s), 200/500 VUs, 35253 complete and 0 interrupted iterations
+default ↓ [ 100% ] 500/500 VUs  4m0s
+
+running (4m07.9s), 200/500 VUs, 35253 complete and 0 interrupted iterations
+default ↓ [ 100% ] 500/500 VUs  4m0s
+
+running (4m08.9s), 200/500 VUs, 35253 complete and 0 interrupted iterations
+default ↓ [ 100% ] 500/500 VUs  4m0s
+
+running (4m09.9s), 200/500 VUs, 35253 complete and 0 interrupted iterations
+default ↓ [ 100% ] 500/500 VUs  4m0s
+
+running (4m10.9s), 073/500 VUs, 35380 complete and 0 interrupted iterations
+default ↓ [ 100% ] 500/500 VUs  4m0s
+
+running (4m11.9s), 050/500 VUs, 35403 complete and 0 interrupted iterations
+default ↓ [ 100% ] 500/500 VUs  4m0s
+
+running (4m12.9s), 050/500 VUs, 35403 complete and 0 interrupted iterations
+default ↓ [ 100% ] 500/500 VUs  4m0s
+
+running (4m13.9s), 050/500 VUs, 35403 complete and 0 interrupted iterations
+default ↓ [ 100% ] 500/500 VUs  4m0s
+
+running (4m14.9s), 050/500 VUs, 35403 complete and 0 interrupted iterations
+default ↓ [ 100% ] 500/500 VUs  4m0s
+
+     ✗ status 200
+      ↳  97% — ✓ 34670 / ✗ 783
+
+     checks.........................: 97.79% ✓ 34670      ✗ 783  
+     data_received..................: 9.3 MB 36 kB/s
+     data_sent......................: 3.0 MB 12 kB/s
+     http_req_blocked...............: avg=27.13ms  min=0s       med=4.8µs   max=19.73s p(90)=6.59µs  p(95)=22.39µs 
+     http_req_connecting............: avg=27.12ms  min=0s       med=0s      max=19.73s p(90)=0s      p(95)=0s      
+     http_req_duration..............: avg=1.86s    min=0s       med=1.51ms  max=1m0s   p(90)=52.8ms  p(95)=55.69ms 
+       { expected_response:true }...: avg=879.35ms min=304.22µs med=1.46ms  max=59.98s p(90)=52.57ms p(95)=54.33ms 
+     http_req_failed................: 2.20%  ✓ 783        ✗ 34670
+     http_req_receiving.............: avg=75µs     min=0s       med=64.61µs max=9.28ms p(90)=95.68µs p(95)=155.77µs
+     http_req_sending...............: avg=28.16µs  min=0s       med=23.19µs max=4.76ms p(90)=37.14µs p(95)=49.23µs 
+     http_req_tls_handshaking.......: avg=0s       min=0s       med=0s      max=0s     p(90)=0s      p(95)=0s      
+     http_req_waiting...............: avg=1.86s    min=0s       med=1.4ms   max=1m0s   p(90)=52.69ms p(95)=55.57ms 
+     http_reqs......................: 35453  138.856294/s
+     iteration_duration.............: avg=3.05s    min=1s       med=1s      max=1m1s   p(90)=1.05s   p(95)=1.05s   
+     iterations.....................: 35453  138.856294/s
+     vus............................: 50     min=8        max=500
+     vus_max........................: 500    min=500      max=500
+
+
+running (4m15.3s), 000/500 VUs, 35453 complete and 0 interrupted iterations
+default ✓ [ 100% ] 000/500 VUs  4m0s

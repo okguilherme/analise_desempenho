@@ -1,0 +1,85 @@
+carga_vus,arquitetura,metrica,coluna,metodo_ic,n,media,ic95
+100,A1,Latência P95 (ms),lat_p95_ms,bootstrap,30,52.851,0.2857
+100,A1,Latência P90 (ms),lat_p90_ms,t-student,30,51.6527,0.1625
+100,A1,Latência média (ms),lat_avg_ms,t-student,30,16.3269,0.087
+100,A1,Latência mediana (ms),lat_med_ms,t-student,30,0.6451,0.0379
+100,A1,Throughput (req/s),throughput_rps,t-student,30,85.8617,0.0088
+100,A1,Taxa de erro (fração),taxa_erro,t-student,30,0.0,0.0
+100,A1,CPU média (%),cpu_util_pct,t-student,30,32.2024,4.2089
+100,A1,CPU pico (%),cpu_util_peak_pct,t-student,30,60.779,1.6733
+100,A1,CPUCreditBalance,cpu_credit_balance,t-student,30,96.3004,5.9841
+100,A2,Latência P95 (ms),lat_p95_ms,bootstrap,30,52.4423,0.0837
+100,A2,Latência P90 (ms),lat_p90_ms,t-student,30,51.872,0.0268
+100,A2,Latência média (ms),lat_avg_ms,t-student,30,16.7583,0.0769
+100,A2,Latência mediana (ms),lat_med_ms,t-student,30,1.5113,0.0088
+100,A2,Throughput (req/s),throughput_rps,t-student,30,85.8309,0.0077
+100,A2,Taxa de erro (fração),taxa_erro,t-student,30,0.0,0.0
+100,A2,CPU média (%),cpu_util_pct,t-student,30,20.4207,1.8999
+100,A2,CPU pico (%),cpu_util_peak_pct,t-student,30,36.6269,0.4373
+100,A2,CPUCreditBalance,cpu_credit_balance,t-student,30,13.413,11.3944
+100,A2,"Latência de backend (ALB, ms)",alb_target_response_time_p95_ms,t-student,30,51.7998,0.0418
+100,A2,Conexões ativas (ALB),alb_active_connections,t-student,30,577.6333,18.8021
+100,A2,Hosts saudáveis (ALB),alb_healthy_host_count,t-student,30,2.0,0.0
+500,A1,Latência P95 (ms),lat_p95_ms,bootstrap,30,58.4881,3.608
+500,A1,Latência P90 (ms),lat_p90_ms,t-student,30,53.0443,0.1115
+500,A1,Latência média (ms),lat_avg_ms,t-student,30,1885.3251,20.4536
+500,A1,Latência mediana (ms),lat_med_ms,t-student,30,1.5532,0.0274
+500,A1,Throughput (req/s),throughput_rps,t-student,30,138.2478,0.6735
+500,A1,Taxa de erro (fração),taxa_erro,t-student,30,0.0225,0.0004
+500,A1,CPU média (%),cpu_util_pct,t-student,30,39.1459,6.5372
+500,A1,CPU pico (%),cpu_util_peak_pct,t-student,30,73.5667,3.6117
+500,A1,CPUCreditBalance,cpu_credit_balance,t-student,30,101.3778,5.0648
+500,A2,Latência P95 (ms),lat_p95_ms,bootstrap,30,72.1322,2.0453
+500,A2,Latência P90 (ms),lat_p90_ms,t-student,30,57.7515,1.2555
+500,A2,Latência média (ms),lat_avg_ms,t-student,30,21.73,0.6908
+500,A2,Latência mediana (ms),lat_med_ms,t-student,30,1.4694,0.0281
+500,A2,Throughput (req/s),throughput_rps,t-student,30,426.86,0.3243
+500,A2,Taxa de erro (fração),taxa_erro,t-student,30,0.0,0.0
+500,A2,CPU média (%),cpu_util_pct,t-student,30,57.5007,3.5765
+500,A2,CPU pico (%),cpu_util_peak_pct,t-student,30,94.8457,0.3896
+500,A2,CPUCreditBalance,cpu_credit_balance,t-student,30,19.1335,9.775
+500,A2,"Latência de backend (ALB, ms)",alb_target_response_time_p95_ms,t-student,30,68.8258,2.3809
+500,A2,Conexões ativas (ALB),alb_active_connections,t-student,30,2641.5674,83.3271
+500,A2,Hosts saudáveis (ALB),alb_healthy_host_count,t-student,30,2.0,0.0
+1000,A1,Latência P95 (ms),lat_p95_ms,bootstrap,30,3730.9612,309.998
+1000,A1,Latência P90 (ms),lat_p90_ms,t-student,30,53.4519,0.0698
+1000,A1,Latência média (ms),lat_avg_ms,t-student,30,2269.6018,13.4791
+1000,A1,Latência mediana (ms),lat_med_ms,t-student,30,1.0734,0.0607
+1000,A1,Throughput (req/s),throughput_rps,t-student,30,145.9645,0.1669
+1000,A1,Taxa de erro (fração),taxa_erro,t-student,30,0.0976,0.0002
+1000,A1,CPU média (%),cpu_util_pct,t-student,30,38.3685,5.4107
+1000,A1,CPU pico (%),cpu_util_peak_pct,t-student,30,75.5149,2.6128
+1000,A1,CPUCreditBalance,cpu_credit_balance,t-student,30,104.858,4.6694
+1000,A2,Latência P95 (ms),lat_p95_ms,bootstrap,30,2872.996,212.0696
+1000,A2,Latência P90 (ms),lat_p90_ms,t-student,30,2488.8669,137.8811
+1000,A2,Latência média (ms),lat_avg_ms,t-student,30,569.221,21.966
+1000,A2,Latência mediana (ms),lat_med_ms,t-student,30,1.8891,0.072
+1000,A2,Throughput (req/s),throughput_rps,t-student,30,552.0694,8.0334
+1000,A2,Taxa de erro (fração),taxa_erro,t-student,30,0.0001,0.0001
+1000,A2,CPU média (%),cpu_util_pct,t-student,30,65.71,5.2653
+1000,A2,CPU pico (%),cpu_util_peak_pct,t-student,30,99.9999,0.0001
+1000,A2,CPUCreditBalance,cpu_credit_balance,t-student,30,0.0986,0.1647
+1000,A2,"Latência de backend (ALB, ms)",alb_target_response_time_p95_ms,t-student,30,2877.0341,214.7406
+1000,A2,Conexões ativas (ALB),alb_active_connections,t-student,30,7444.8211,178.0736
+1000,A2,Hosts saudáveis (ALB),alb_healthy_host_count,t-student,30,2.0,0.0
+2000,A1,Latência P95 (ms),lat_p95_ms,bootstrap,30,11870.3617,2493.1148
+2000,A1,Latência P90 (ms),lat_p90_ms,t-student,30,53.4455,0.0948
+2000,A1,Latência média (ms),lat_avg_ms,t-student,30,2556.8176,36.2061
+2000,A1,Latência mediana (ms),lat_med_ms,t-student,30,0.5852,0.0197
+2000,A1,Throughput (req/s),throughput_rps,t-student,30,170.9025,0.1614
+2000,A1,Taxa de erro (fração),taxa_erro,t-student,30,0.2273,0.0005
+2000,A1,CPU média (%),cpu_util_pct,t-student,30,44.8245,3.745
+2000,A1,CPU pico (%),cpu_util_peak_pct,t-student,30,76.9288,0.5899
+2000,A1,CPUCreditBalance,cpu_credit_balance,t-student,30,77.3082,11.5501
+2000,A2,Latência P95 (ms),lat_p95_ms,bootstrap,30,5392.3711,0.562
+2000,A2,Latência P90 (ms),lat_p90_ms,t-student,30,5379.4738,0.7086
+2000,A2,Latência média (ms),lat_avg_ms,t-student,30,999.9164,1.5078
+2000,A2,Latência mediana (ms),lat_med_ms,t-student,30,1.3285,0.0124
+2000,A2,Throughput (req/s),throughput_rps,t-student,30,860.5243,0.6707
+2000,A2,Taxa de erro (fração),taxa_erro,t-student,30,0.1023,0.0009
+2000,A2,CPU média (%),cpu_util_pct,t-student,30,64.6547,4.106
+2000,A2,CPU pico (%),cpu_util_peak_pct,t-student,30,99.9981,0.0029
+2000,A2,CPUCreditBalance,cpu_credit_balance,t-student,30,0.0,0.0
+2000,A2,"Latência de backend (ALB, ms)",alb_target_response_time_p95_ms,t-student,30,5396.7526,4.9334
+2000,A2,Conexões ativas (ALB),alb_active_connections,t-student,30,14828.8144,480.5891
+2000,A2,Hosts saudáveis (ALB),alb_healthy_host_count,t-student,30,2.0,0.0

@@ -1,0 +1,23 @@
+{
+    "Label": "CPUUtilization",
+    "Datapoints": [
+        {
+            "Timestamp": "2026-06-24T03:00:00+00:00",
+            "Average": 42.66805282407637,
+            "Maximum": 77.3348652113825,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-06-24T02:55:00+00:00",
+            "Average": 59.02654713684628,
+            "Maximum": 77.10175333433237,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-06-24T02:50:00+00:00",
+            "Average": 44.31478086870189,
+            "Maximum": 73.42313840415612,
+            "Unit": "Percent"
+        }
+    ]
+}

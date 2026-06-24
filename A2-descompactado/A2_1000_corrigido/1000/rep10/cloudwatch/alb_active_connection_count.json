@@ -1,0 +1,20 @@
+{
+    "Label": "ActiveConnectionCount",
+    "Datapoints": [
+        {
+            "Timestamp": "2026-06-22T05:45:00+00:00",
+            "Sum": 6862.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-06-22T05:50:00+00:00",
+            "Sum": 7423.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-06-22T05:55:00+00:00",
+            "Sum": 5724.0,
+            "Unit": "Count"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+arquitetura,comparacao,cargas,n,spearman_rho,p_value
+A1,CPU_media_x_lat_p95,todas,120,0.2582,0.004409
+A1,CPU_pico_x_lat_p95,todas,120,0.5107,0.0
+A1,CPUCreditBalance_x_lat_p95,1000+2000 (sustentada),60,-0.2675,0.038788
+A2,CPU_media_x_lat_p95,todas,120,0.6957,0.0
+A2,CPU_pico_x_lat_p95,todas,120,0.8835,0.0
+A2,CPUCreditBalance_x_lat_p95,1000+2000 (sustentada),60,-0.1511,0.249216

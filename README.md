@@ -144,8 +144,7 @@ estatisticamente.**
   A2 — não compromete a comparação relativa.
 - O estágio de "spike" (P3) previsto na matriz de cenários original (Slide
   8, para cargas altas) não está presente nos dados finais — todas as
-  réplicas seguem o padrão rampa+platô, provavelmente resultado da fusão de
-  Fatores 3+4 pedida pelo professor. Vale confirmar que isso foi intencional.
+  réplicas seguem o padrão rampa+platô.
 - Taxa de erro e throughput foram medidos só pelo lado k6 (cliente); as
   métricas nativas do ALB (`HTTPCode_Target_5XX`, `RequestCount`) previstas
   no Slide 5 como fonte adicional não foram coletadas/cruzadas.
