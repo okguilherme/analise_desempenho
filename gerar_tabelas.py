@@ -278,7 +278,7 @@ def main():
     corr = gerar_correlacao(df)
     corr.to_csv(f"{OUTDIR}/correlacao_cpu_latencia.csv", index=False)
 
-    print(f"\n✅ Sucesso! 5 arquivos gerados na pasta '{OUTDIR}/'.")
+    print(f"\n 5 arquivos gerados na pasta '{OUTDIR}/'.")
     print(f"   - dataset_completo_A1_A2.csv ({len(df)} linhas)")
     print(f"   - estatistica_descritiva.csv ({len(desc)} linhas)")
     print(f"   - mann_whitney.csv ({len(mw)} linhas)")
