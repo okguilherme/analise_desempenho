@@ -155,7 +155,7 @@ def main():
 
     gerar_grafico_7(df_a1, df_a2)
 
-    print(f"\n✅ Sucesso! 7 gráficos gerados em alta resolução (300 DPI) na pasta '{OUTDIR}/'.")
+    print(f"\n 7 gráficos gerados em alta resolução (300 DPI) na pasta '{OUTDIR}/'.")
 
 
 def gerar_grafico_7(df_a1, df_a2):
